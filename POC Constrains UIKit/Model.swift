@@ -6,3 +6,8 @@
 //
 
 import Foundation
+
+struct Furniture {
+    var imageName: String
+    var details: String
+}
